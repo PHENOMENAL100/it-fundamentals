@@ -1,4 +1,4 @@
-# # IT Fundamentals
+# IT Fundamentals
 
 This repository contains notes, exercises, and small projects covering IT fundamentals and basic networking concepts as part of my Information Technology learning journey.
 
